@@ -14,7 +14,7 @@ FreakC's commands end with [] or a special operator to indicate that it's FreakC
 
 ## How is FreakC any different from Batch? 
 
-**FreakC's added features compared to Batch: **
+**FreakC's added features compared to Batch:**
 
 - While loops, repeat-until loops, and FreakC's own for loops with break/continue supports.
 
