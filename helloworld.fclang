@@ -1,0 +1,8 @@
+function[] SayHelloWorld
+    print[] Hello, World!
+endfunc[]
+
+SayHelloWorld[..]
+
+:: Below will also work, because Batch's commands work in FreakC:
+:: call SayHelloWorld
